@@ -1,0 +1,13 @@
+1. Explain the distinction between high levels and low levels
+- A high level language creates abstraction over the cpu and memory
+- A low level language doesn't get too far from the cpu and memory
+inner works and structure (assembly get translated to machine language)
+2. What is a "black box"
+- A black box is an object which gets input and produces output,
+dealing with it needs just understanding its interface, that is
+its inputs and outputs
+3. Name a few advantages to programming in the C language.
+- Small language
+- Gives the programmer control over memory -> flexibility
+- Doesn't have a huge runtime -> fast
+- Portable
