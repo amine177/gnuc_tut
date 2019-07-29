@@ -1,0 +1,10 @@
+2. Is there anything wrong with a function that returns no value?
+- No
+3. What happens if the value returned by a function is not assigned to
+anything?
+- It is lost
+4. What happens if a variable is assigned the result of a function, but
+the function does not return a value?
+-  Undefined
+5. How can you make a program terminates anywhere in the program?
+- Using exit(int)
