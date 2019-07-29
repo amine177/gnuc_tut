@@ -1,0 +1,11 @@
+1. What is a compiler?
+- A compiler is a program that reads source code and produces machine code
+2. How does one run a C program?
+- Making a program's file executable, then, using 
+./program-file (in unix like systems)
+3. How does one usually compile a C program?
+- Using gcc, clang, llvm , gcc -o program-file program-file.c
+4. Are upper and lower case equivalent in C?
+- No
+5.What the tow main kinds of errors that can occur in a program?
+- Compilation errors (syntax, type) , Runtime errors
