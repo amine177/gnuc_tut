@@ -1,0 +1,14 @@
+1. What is a block?
+- It is code that is put between tow curly braces { }
+2. Does a C program start at the beginning ? Where is the beginning?
+- No, preprocessor code and declarations ..
+3. What happens when a program comes to a '}' character ? What does this
+character signify ?
+- It halts, end of instructions
+4. What vital piece of punctuation goes at the end of every simple C statement?
+- ;
+5. What happens if a  comment is not ended? Tha is if the programmer types '/*'
+to start but forgets the .. '*/' to close ?
+- Everything after the comment becomes part of it (till the end of line or
+the end of program) , an unclosed /* means all the lines after it are part of
+the comment
