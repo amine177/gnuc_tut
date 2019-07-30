@@ -1,0 +1,4 @@
+1. What is an operand?
+- It is an object on which we apply an operation
+2. printf("%d\n", 5 % 2);
+3. printf("%d\n", -5 - 10);
