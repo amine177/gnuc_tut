@@ -1,0 +1,15 @@
+1. What is an identifier
+- It is a name that uniquely identifies a memory region
+2. Which of the following are valid C varaible names?
+- Ralph32, mission_control, _off
+4. What is the difference between the types float and double?
+- float is using single precision and double uses double precision
+5. int vs unsigned int
+- int can have negative values, while unsigned int is only positive
+7. What data type do C function return by default?
+- void
+8. You must declare the data type of a function resturns at two places in
+a program. Where?
+- function definition, function declaration
+10. Is it possible to have an automatic global  variable?
+- No
