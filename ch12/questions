@@ -1,0 +1,7 @@
+1. Define a macro called BIRTHDAY which gives the day of the month
+#define BIRTHDAY 42
+2. Write an instruction to the preprocessor to include the math library 'math.h'
+#include "math.h"
+
+3. Is a macro always a number?
+false
