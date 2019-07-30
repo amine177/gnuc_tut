@@ -1,0 +1,12 @@
+1. What is the difference between a value parameter and a variable parameter?
+- A value parameter just acts as a value and a variable one is a reference
+2. What is the difference between a formal parameter and an actual one?
+- A formal parameter is a way to create a contract, a form, an actual one
+is the prameter on which we apply computation
+3. What does passing by reference let you do that passing by value doesn't?
+- Passing by reference makes it possible to mutate the actual parameter not
+only get a copy of its value
+4. Can a function call be used as an actual parameter?
+- Yes
+5. Do actual and formal parameters need to have the same names?
+- No
